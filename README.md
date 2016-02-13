@@ -1,3 +1,3 @@
 # hello-world
 A place where you store ideas, resources, or even share and discuss things with others.
-This is a test sentence.
+<strong>This is a test sentence.</strong>
